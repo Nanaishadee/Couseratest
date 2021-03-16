@@ -1,0 +1,15 @@
+#box {
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+html {
+    background-color: aqua;
+}
+section {
+    border: 1px whitesmoke;
+    width: 33.33%;
+    float: left;
+    position: relative;
+    padding: 10px;
+
+}
